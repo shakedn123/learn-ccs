@@ -1,0 +1,41 @@
+body {
+    font-style: italic;
+    font-family: sans-serif;
+    background: rgb(183, 178, 171);
+}
+.container {
+width: 800px;
+background: white;
+margin:0 auto;
+padding: 8px;
+}
+.cont2 {
+    height: 150px;
+    background: yellowgreen;
+    padding: 8px;
+    margin:0 auto;
+    margin-bottom: 4px;
+}
+h2 {
+    font-family: fantasy;
+}
+.h3a {
+    color: blue;
+}
+.cont3 {
+    height: 150px;
+    background: rgb(102, 57, 57);
+    padding: 8px;
+    margin: 0; auto;
+    margin-bottom: 4px;
+}
+.cont4 {
+    height: 150px;
+    background: rebeccapurple;
+    margin: 0; auto;
+    padding: 8px;
+
+}
+h3 {
+    color: deeppink;
+}
